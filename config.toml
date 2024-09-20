@@ -1,8 +1,20 @@
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-included-patches = "'Change header'"
-excluded-patches = "'Open links externally' 'Spoof device dimensions' 'Disable zoom haptics' 'GmsCore support' 'Enable debugging' 'Announcements' 'Always repeat' 'Custom player overlay opacity' 'Hide cast button' 'Return YouTube Dislike' 'Enable tablet layout' 'Wide searchbar' 'Disable rolling number animations' 'Hide timestamp' 'Copy video URL' 'Disable precise seeking gesture' 'Swipe controls'"
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+arch = "arm64-v8a"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-excluded-patches = "'GmsCore support'"
+arch = "arm64-v8a"
+
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+arch = "arm64-v8a"
+excluded-patches = "'Dynamic color'"
+
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+
+[Twitch]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+arch = "arm64-v8a"
+
