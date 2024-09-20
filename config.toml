@@ -13,6 +13,8 @@ excluded-patches = "'Dynamic color'"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+arch = "arm64-v8a"
+excluded-patches = "'Disable precise seeking gesture' 'Seekbar tapping' 'Swipe controls' 'Copy video URL' 'Miniplayer' 'Theme' 'Wide searchbar' 'Restore old seekbar thumbnails' 'Hide cast button' 'Hide seekbar' 'Hide timestamp' 'Disable rolling number animations' 'Custom player overlay opacity' 'Enable tablet layout' 'Announcements' 'Disable zoom haptics' 'Enable debugging' 'Always repeat'"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
